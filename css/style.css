@@ -1,0 +1,32 @@
+body {
+    text-align: center;
+    padding-top: 80px;
+    font-family: 'Koh Santepheap', cursive;
+    background-image: url("https://cutewallpaper.org/21/pokemon-forest-background/Pokemon-Lets-Go-Pikachu-and-Eevee-Pre-Release-Review-HYPEBEAST.png");
+    background-size: cover;
+    color: rgb(255, 255, 255);
+}
+
+.button {
+    border-radius: 15px;
+    color: white;
+    background-color: rgb(87, 189, 40);
+    border: 0px rgb(87, 189, 40);
+}
+
+.input {
+    color: black;
+    border-radius: 15px;
+}
+
+
+.name {
+    display: inline-block;
+}
+
+
+
+span {
+    display: flex;
+    justify-content: center;
+}
