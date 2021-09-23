@@ -1,4 +1,4 @@
-<h1>Project One</h1>
+<h1>Pokemon Encyclopedia</h1>
 <h4>A web application that can supply you with ever bit of informaton youll eveer need on Pokemon</h4>
 
 <h2>Languages and Stragtegies used</h2>
@@ -20,8 +20,6 @@
 <h2>Getting Started</h2>
 
 [Click Here](http://127.0.0.1:5500)  to see the application in action! 
-
-
 
 <h2>Future Enhancements</h2>
 
