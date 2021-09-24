@@ -1,5 +1,5 @@
 <h1>Pokemon Encyclopedia</h1>
-<h4>A web application that can supply you with ever bit of informaton youll eveer need on Pokemon</h4>
+<h4>A web application that can supply you with ever bit of informaton youll ever need on Pokemon</h4>
 
 <h2>Languages and Stragtegies used</h2>
 <ul>
